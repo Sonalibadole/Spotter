@@ -1,12 +1,10 @@
-
 # Spotter
 
 Spotter is a Node.js web application that uses [Leaflet.js](https://leafletjs.com/) and [Socket.io](https://socket.io/) to display the real-time locations of all users currently accessing the application. Users can view the locations of others on a map that updates every 5 seconds.
 
 ## Live Website
 
-Visit the live version of Spotter here: [Spotter Live Website](https://spotter-lo6y.onrender.com/)
-
+Visit the live version of Spotter here: [Spotter Live Website](https://spotter-ikt4.onrender.com)
 
 ## Features
 
@@ -17,7 +15,6 @@ Visit the live version of Spotter here: [Spotter Live Website](https://spotter-l
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/450739c5-7368-458f-8290-40dc707f3ffd)
-
 
 ## Technologies Used
 
@@ -33,25 +30,33 @@ To get started with Spotter, follow these steps:
 1.**Clone the repository:**
 
 ```bash
-https://github.com/ryhthm09/Spotter.git
+https://github.com/Sonalibadole/Spotter.git
 ```
 
 2.**Navigate to Project Directory:**
- ```bash
- cd spotter
+
+```bash
+cd spotter
 ```
+
 3.**Install the dependencies:**
+
 ```bash
 npm install
 ```
+
 4.**Start the application:**
+
 ```bash
 node app.js
 ```
+
 5.**Open your browser and go to:**
+
 ```
 http://localhost:3000
 ```
+
 **Usage**
 Once the application is running, users can open the provided URL in their web browsers. The application will prompt users for permission to access their current location. Once granted, the map will display their location and the locations of all other users connected to the application.
 
@@ -61,6 +66,5 @@ Contributions are welcome! Please feel free to submit a pull request or issue to
 **Contact**
 For any questions or feedback, please reach out at:
 
-Email:anandsharma1123@gmail.com
-GitHub: @ryhthm09
-
+Email:sonalibadole934@gmail.com
+GitHub: Sonalibadole
